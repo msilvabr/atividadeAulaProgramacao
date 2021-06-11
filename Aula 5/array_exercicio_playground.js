@@ -1,34 +1,3 @@
-// let pessoa = ["João", "Marcão", 22, 1.80, false]
-// console.log(pessoa)
-
-// let pessoa = ["matheus", 22, 1.94]
-// console.log(pessoa)
-
-// //push
-//     pessoa.push(22)
-//     console.log(pessoa)
-
-// //pop
-//     pessoa.pop()
-//     console.log(pessoa)
-
-// //unshift
-//     pessoa.unshift(22)
-//     console.log(pessoa)
-
-// //shift
-//     pessoa.shift()
-//     console.log(pessoa)
-
-// //indexOf
-//     console.log(pessoa.indexOf(1.94))
-
-// //lastindexOf
-//     console.log(pessoa.lastIndexOf)
-
-// //join
-//     console.log(pessoa.join(" , "))
-
 //ATIVIDADE PLAYGROUND
 
 let listaDeCompras = ["arroz", "leite", "ovos", "manteiga", "pão"]
